@@ -1,5 +1,5 @@
 Pyraminx:
-Able to solve usin g layer by layer method
+Able to solve using layer by layer method
 
 
 10/17/2022
